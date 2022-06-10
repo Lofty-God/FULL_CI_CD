@@ -1,3 +1,3 @@
-<h1> IternAcademy.com Learning</h1>
-<h2> This will make you fully skilled in Devops Tools CI/CD pipelines</h2>
-<h2> God bless as you work hard with this course.I have successfully come to the end of devops cicd training with hands on skillThankyou</h2>
+<h1> Mr. Jerry I have finally, concluded my training with you on DevOps CICD</h1>
+<h2> I can now continue with my Kubernetes training, I also look forward to Terrafoam training with you</h2>
+<h2> God bless you for all the knowledge imparted to me, i appreciate</h2>
